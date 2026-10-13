@@ -16,7 +16,7 @@ I have been fully remote for 15 years and have worked at two startups. I use Cla
 
 ## Background
 
-At Ampack Digital, a martech SaaS product for insurance carriers, I managed about 60 mid market and enterprise accounts with an 85% renewal rate and 115%, 108% and 122% quota attainment over the last three years. I hired and trained three CSMs. I also walked clients through complex platform functionality and worked with product teams to roll out custom integrations.
+At Ampack Digital, a martech SaaS product for insurance carriers and agencies, I managed about 60 mid market and enterprise accounts with an 85% renewal rate and 115%, 108% and 122% quota attainment over the last three years. I hired and trained three CSMs over 7 years. I also walked clients through complex platform functionality and worked with product teams to roll out custom integrations.
 
 ## Tools
 
