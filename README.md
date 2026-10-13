@@ -20,7 +20,7 @@ At Ampack Digital, a martech SaaS product for insurance carriers, I managed abou
 
 ## Tools
 
-Claude, Claude Code, GitHub, Netlify, HubSpot, Slack, Google Workspace, Excel
+Claude, Claude Code, GitHub, Netlify, HubSpot, Custom CRMs, Slack, Google Workspace, Excel, N8N, Meta Business Suite, Google Analytics 
 
 ## Connect
 
